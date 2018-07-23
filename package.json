@@ -6,6 +6,7 @@
   ],
   "license": "BSD-3-Clause",
   "repository": "Polymer/pwa-starter-kit",
+  "main": "index.html",
   "scripts": {
     "start": "polymer serve",
     "build": "npm run build:prpl-server && npm run build:static",
